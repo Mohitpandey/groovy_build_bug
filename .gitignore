@@ -1,0 +1,21 @@
+.DS_Store
+
+bin
+gen
+externalRootPath
+local.properties
+*.apk
+
+#.settings
+proguard
+tmp/
+appcompat
+
+# Gradle
+.gradle/
+build/
+
+# Intelli J / Studio files
+
+.idea
+*.iml
